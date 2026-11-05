@@ -1,4 +1,4 @@
-const nodemailer = require("nodemailer");
+const nodemailer = require("nodemailer"); // for reciving mails
 const otpGenerator = require("otp-generator");
 
 const User = require("../models/user.model.js");
