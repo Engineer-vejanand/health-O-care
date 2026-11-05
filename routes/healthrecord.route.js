@@ -1,4 +1,4 @@
-const express = require('express');
+const express = require('express');//healthrecords route
 const router = express.Router();
 const healthRecordController = require("../controllers/healthrecord.controller.js");
 const upload = require("../middlewares/multer.middleware.js");
