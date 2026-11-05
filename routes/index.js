@@ -1,4 +1,4 @@
-const express = require("express");
+const express = require("express");//main file for routes
 const router = express.Router();
 
 const isLoggedin = require("../middlewares/isLoggedin.middeleware.js")
