@@ -1,6 +1,6 @@
-const Appointment = require("../models/appointment.model.js");
-const User = require("../models/user.model.js");
-const Doctor = require("../models/doctor.model.js");
+const Appointment = require("../models/appointment.model.js"); // appointment model
+const User = require("../models/user.model.js"); // user model
+const Doctor = require("../models/doctor.model.js"); // doctor models
 
 
 exports.newAppointmentForm = async (req, res) => {
