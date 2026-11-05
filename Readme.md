@@ -60,4 +60,4 @@ Dashboard Page (/dashboard) -> User Details Page (/userdetails)
 Health Records Page (/healthrecords) -> Orders Page (/orders)
        |
        v
-Logout Page (/logout) -> Home Page (/)
+Logout Page (/logout) -> Home Page (/) ->
