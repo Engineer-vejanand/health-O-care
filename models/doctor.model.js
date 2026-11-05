@@ -1,4 +1,4 @@
-const mongoose = require("mongoose");
+const mongoose = require("mongoose");// doctor schema
 
 const DoctorSchema = new mongoose.Schema({
   user: { 
