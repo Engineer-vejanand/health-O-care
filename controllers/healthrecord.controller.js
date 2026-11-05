@@ -1,4 +1,4 @@
-const HealthRecord = require("../models/healthrecord.model.js");
+const HealthRecord = require("../models/healthrecord.model.js");//here also models
 const path = require('path');
 const fs = require('fs');
 
