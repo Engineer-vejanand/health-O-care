@@ -1,4 +1,4 @@
-const Order = require("../models/order.model.js"); 
+const Order = require("../models/order.model.js");  // here also models 
 const Medicine = require("../models/medicine.model.js");
 const User = require("../models/user.model.js"); 
 

@@ -4,7 +4,7 @@
   "description": "the big project which handles health details and doctor appoitment",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
   },
   "author": "Vejanand Gadhavi",
   "license": "ISC",

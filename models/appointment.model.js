@@ -1,4 +1,4 @@
-const mongoose = require("mongoose");
+const mongoose = require("mongoose");// for schemas
 
 
 const AppointmentSchema = new mongoose.Schema({
